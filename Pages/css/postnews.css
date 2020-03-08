@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+.p{
+	padding-bottom: 8px;
+	padding-top: 16px;
+	color: white;
+}
+input{
+	padding:8px;
+	color: white;
+}
+input:hover{
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+textarea{
+	width: 350px;
+	color: white;
+	position: relative;
+	height: 200px;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+textarea:hover{
+	background-color: rgba(0, 0, 0, 0.8);	
+}
+
+.login{
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: 30px;
+}
